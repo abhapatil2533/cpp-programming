@@ -1,2 +1,2 @@
-# cpp-programming-cwh
-c++ programming by cwh
+# cpp-programming
+c++ programming by freeCodeCamp.org
